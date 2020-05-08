@@ -8,7 +8,7 @@ class Scrape
       
   end
  
-endr
+end
   
   def print_courses
     self.make_courses
